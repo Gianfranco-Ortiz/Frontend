@@ -1,2 +1,2 @@
 # Frontend
-Este es el repositorio para la aprte Frontend de Aplicaiiones Web
+Este es el repositorio para la parte Frontend de Aplicaiiones Web
